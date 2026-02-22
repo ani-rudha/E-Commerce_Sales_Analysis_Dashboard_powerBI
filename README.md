@@ -18,10 +18,13 @@ This project presents a comprehensive E‑Commerce Sales Analysis Dashboard buil
 
 ## 📂 Dataset Description
 The analysis is based on the following tables (exact names not fully listed, but include sales, product, customer, and region data):
-- Sales transactions  
-- Product details  
-- Customer demographics  
-- Regional data  
+| Table             | Description                                      |
+|-------------------|--------------------------------------------------|
+| `tab_customers` | Customer demographics and region |
+| `tab_orders` | Order details and order status   |
+| `tab_order_items` | Line-item level sales data |
+| `tab_products`   | Product catalog and categories   |
+ 
 
 ---
 
